@@ -1,2 +1,2 @@
-This is a Basic Resume Template 
+**# Resume Template **
 Technology Used :: Html5, CSS3
